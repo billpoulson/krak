@@ -5,7 +5,7 @@
 **Krak** is a utility designed to enhance your GitKraken experience by seamlessly attaching the current repository to your active user profile in GitKraken. With Krak, you can streamline your workflow and keep your repositories organized and easily accessible within GitKraken.
 
 ## Features
-
+- windows support
 - Automatically attaches the current repository to your active GitKraken profile.
 - Simplifies the process of managing repositories within GitKraken.
 - Enhances productivity by reducing the manual steps
