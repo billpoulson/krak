@@ -6,9 +6,9 @@
 
 ## Features
 
-- Automatically attaches the current repository to your GitKraken user profile.
+- Automatically attaches the current repository to your active GitKraken profile.
 - Simplifies the process of managing repositories within GitKraken.
-- Enhances productivity by reducing the manual steps needed to sync repositories.
+- Enhances productivity by reducing the manual steps
 
 ## Installation
 
@@ -28,7 +28,7 @@ This script will download and install Krak on your system.
 - cd to the repository folder you want to attach to your user profile in GitKraken. `cd ./path/to/git/repo`
 - run the command:
    `krak`
-- your repo is ready to use in GitKraken.
+- your repo is available in GitKraken.
 
 ## Troubleshooting
 
