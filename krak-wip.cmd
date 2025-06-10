@@ -1,3 +1,3 @@
 git add .
-git commit -m "ef migration init containers"
+git commit -m "wip"
 git push
